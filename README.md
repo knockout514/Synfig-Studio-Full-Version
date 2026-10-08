@@ -240,4 +240,4 @@ This repository serves as the official landing page for Synfig Studio. The softw
 **Get the most recent version of Synfig Studio today!**
 
 ---
-**Last updated:** 2026-10-07 21:10:11 UTC
+**Last updated:** 2026-10-08 01:43:28 UTC
